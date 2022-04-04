@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Gallery() {
+export default function Contact() {
     return (
         <div>
-            this is gallery page
+            This is contact page
         </div>
     )
 }
